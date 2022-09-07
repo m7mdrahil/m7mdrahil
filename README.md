@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Mohammad Rahil. I currently study at University of New Brunswick in their 
+- M.Eng. in Electrical and Computer Engineering program.
+- 👀 I’m interested in embedded systems, Python, machine learning, C++, iot, data. 
+- 🌱 I’m currently learning PCB design, C++, Python among other things.
+- 💞️ I’m looking to collaborate on any of my aforementioned interests
+- 📫 You can reach me by my email - mohammed.rahil.1997@gmail.com
