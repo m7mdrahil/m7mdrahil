@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mohammad Rahil. I currently study at University of New Brunswick's M.Eng. in Electrical and Computer Engineering program. I have completed my Bachelors in Electronics Engineering at University of Bahrain.
-- 👀 I’m interested in embedded systems, Python, machine learning, C++, IoT and data science. 
+- 👋 Hi, I’m Mohammad Rahil. I got my M.Eng. in Electrical and Computer Engineering degree from the University of New Brunswick. I have completed my Bachelors in Electronics Engineering at University of Bahrain.
+- 👀 I’m interested in embedded systems, Cybersecurity, Python, machine learning, C++, IoT and data science. 
 - 🌱 I’m currently learning PCB design, C++, Python among other things.
 - 💞️ I’m looking to collaborate on any of my aforementioned interests
 - 📫 You can reach me by my email - mohammed.rahil.1997@gmail.com
